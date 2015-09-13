@@ -1,6 +1,2 @@
 hh
-<<<<<<< HEAD
 i love yon
-=======
-i love yon
->>>>>>> dev
