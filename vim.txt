@@ -1,4 +1,8 @@
 text and vim
 oo
 add a line
-oooooaaaaa
+<<<<<<< HEAD
+iiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+=======
+iiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+>>>>>>> dev
