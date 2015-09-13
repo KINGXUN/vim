@@ -1,7 +1,2 @@
 hh
-<<<<<<< HEAD
 i love yom
-iiii
-=======
-i love yom
->>>>>>> dev
